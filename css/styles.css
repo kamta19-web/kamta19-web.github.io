@@ -201,6 +201,63 @@ h6,
   font-size: var(--font-size-small);
 }
 
+h1 {
+  font-family: Arial;
+  font-size: 50px;
+  font-style: normal;
+  text-transform: uppercase;
+  font-weight: normal;
+  margin-top: 30px;
+  
+  } 
+
+  h2 {
+  font-family: Arial;
+  font-size: 25px;
+  font-style: italic;
+   
+  } 
+
+
+  p {
+  font-family: Arial;
+  font-size: 25px;
+  font-style: italic;
+  color:black;
+  background-color: white;
+  margin-top: 30px; 
+  } 
+  .intro {
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: bold;
+  border-color: yellowgreen;
+  border-width: 5px;
+  border-style: dotted; ;
+  padding-left: 20px; 
+  padding-right: 20px;
+  border-radius: 60px;
+  
+  } 
+
+  a {
+  font-family: Arial;
+  text-decoration: none; 
+  color: blue;
+  } 
+
+  a:hover {
+  font-family: Arial;
+  text-decoration: underline; 
+  background-color: chartreuse;
+  } 
+
+  nav a {
+  font-size: 21px;
+  color: blue;
+  } 
+
+
 ::-moz-selection {
   background: var(--lightest-blue);
   text-shadow: none;
